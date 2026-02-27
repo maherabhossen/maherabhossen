@@ -37,11 +37,9 @@ I am still early in my journey, but I am consistently working to improve my prob
 
 ## 🚀 Projects
 
-### Typing Game
+### [Typing Game](https://github.com/maherabhossen/bash-typing-game)
 Terminal-based typing practice game to improve typing speed and accuracy.  
 This project helped me learn Git workflow including commits, branching, and merge conflict handling.
-
-🔗 Repository: *(add your repo link here)*
 
 ---
 
@@ -70,11 +68,10 @@ This profile reflects my continuous learning and progress.
 
 ## Connect With Me
 
-LinkedIn:  
-https://www.linkedin.com/in/maherab-hossen/
-
-Email:  
-maherab.scpsc@gmail.com
+[LinkedIn](https://www.linkedin.com/in/maherab-hossen/)
+[Facebook](https://www.facebook.com/maherab.2004)
+[Instagram](https://www.instagram.com/the_maherab_hossen/)
+Email: <maherab.scpsc@gmail.com>
 
 ---
 
