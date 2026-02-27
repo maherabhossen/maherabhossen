@@ -1,4 +1,4 @@
-# Hi, I'm Maherab Hossen 👋
+# Hi, I'm Maherab👋
 
 🎓 CSE student exploring programming fundamentals  
 📍 RUET, 1st year, 2nd semester  
@@ -69,8 +69,11 @@ This profile reflects my continuous learning and progress.
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/maherab-hossen/)
+
 [Facebook](https://www.facebook.com/maherab.2004)
+
 [Instagram](https://www.instagram.com/the_maherab_hossen/)
+
 Email: <maherab.scpsc@gmail.com>
 
 ---
