@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a Computer Science student at RUET, currently focused on building strong programming fundamentals.  
 I enjoy learning by doing projects and documenting my progress.
@@ -37,7 +37,7 @@ I am still early in my journey, but I am consistently working to improve my prob
 
 ## 🚀 Projects
 
-### ⌨️ Typing Game
+### Typing Game
 Terminal-based typing practice game to improve typing speed and accuracy.  
 This project helped me learn Git workflow including commits, branching, and merge conflict handling.
 
@@ -45,7 +45,7 @@ This project helped me learn Git workflow including commits, branching, and merg
 
 ---
 
-## 📚 Learning Journey
+## Learning Journey
 
 I believe in learning publicly and documenting what I learn.
 
@@ -59,7 +59,7 @@ This profile reflects my continuous learning and progress.
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 
 - Strengthening Data Structures & Algorithms
 - Writing clean and understandable code
@@ -68,7 +68,7 @@ This profile reflects my continuous learning and progress.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 LinkedIn:  
 https://www.linkedin.com/in/maherab-hossen/
