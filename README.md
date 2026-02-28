@@ -77,9 +77,7 @@ Email: <maherab.scpsc@gmail.com>
 
 ## 📊 GitHub Stats
 
-![Maherab's GitHub stats](https://github-readme-stats.vercel.app/api?username=maherabhossen&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maherabhossen&layout=compact)
+<a href="https://github.com/maherabhossen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maherabhossen&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ---
 
