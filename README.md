@@ -75,6 +75,14 @@ Email: <maherab.scpsc@gmail.com>
 
 ---
 
+## 📊 GitHub Stats
+
+![Maherab's GitHub stats](https://github-readme-stats.vercel.app/api?username=maherabhossen&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maherabhossen&layout=compact)
+
+---
+
 ## 💡 Note
 
 I am still learning and growing. This GitHub profile documents my journey, progress, and projects as I continue improving my skills.
