@@ -78,3 +78,7 @@ Email: <maherab.scpsc@gmail.com>
 ## 💡 Note
 
 I am still learning and growing. This GitHub profile documents my journey, progress, and projects as I continue improving my skills.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=maherabhossen)
